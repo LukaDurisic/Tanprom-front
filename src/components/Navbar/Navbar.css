@@ -1,0 +1,16 @@
+.nav-links {
+  text-decoration: none;
+  margin: 10px;
+  color: black;
+}
+
+.nav-ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+}
+.nav-container {
+  background-color: rgb(0, 0, 0, 0);
+  position: sticky;
+}
